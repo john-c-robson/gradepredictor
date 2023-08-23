@@ -34,16 +34,11 @@ Before you can run the app, you'll need the following:
 
 1. Clone this repository to your local machine:
 
-   ````bash
-   git clone https://github.com/your-username/grade-tracker-app.git
-    ````
-
-Open the project in Android Studio.
+2. Open the project in Android Studio.
    
+3. Connect your Android device to your computer or start an emulator.
 
-Connect your Android device to your computer or start an emulator.
-
-Build and run the app from Android Studio.
+4. Build and run the app from Android Studio.
 
 ## Usage
 
